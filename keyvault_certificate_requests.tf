@@ -20,3 +20,4 @@ module "keyvault_certificate_requests" {
 output "keyvault_certificate_requests" {
   value = module.keyvault_certificate_requests
 }
+
